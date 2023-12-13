@@ -12,7 +12,7 @@
 - 🤔 **I’m looking for help with ...**
   - Always open to learning and collaboration. If you have insights or expertise in web development, data science, or machine learning, I'd love to learn from you and work together on exciting projects.
 
- 🛠️ **Tech Stacks:**
+- 🛠️ **Tech Stacks:**
   - **Languages:** Python, JavaScript, PHP, Ruby
   - **Frameworks:** Flask, Next.js, Node.js, Laravel, Ruby on Rails
   - **Databases:** SQL, MongoDB, Firebase
