@@ -1,4 +1,4 @@
-🌟 Currently focused on developing Machine Learning projects, collaborating on web development and data-related initiatives, and learning data science.
+Currently focused on developing Machine Learning projects, collaborating on web development and data-related initiatives, and learning data science.
 
 ![Juuzou-Suzuya](https://media1.tenor.com/m/0xlEN2HpNa0AAAAd/juuzou-suzuya-tokyo-ghoul.gif)
 
